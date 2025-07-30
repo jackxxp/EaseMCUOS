@@ -1,0 +1,6 @@
+usb/device/__init__.py,,
+usb/device/core.py,,
+usb/device/hid.py,,
+usb/device/keyboard.py,,
+usb_device_keyboard-0.1.1.dist-info/METADATA,,
+usb_device_keyboard-0.1.1.dist-info/RECORD,,
